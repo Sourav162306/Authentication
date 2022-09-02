@@ -146,3 +146,5 @@ app.put("/change-password/", async (request, response) => {
     }
   }
 });
+
+module.exports = app;
